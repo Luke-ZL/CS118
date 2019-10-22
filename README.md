@@ -1,1 +1,1 @@
-# CS118
+# My CS118 projects
